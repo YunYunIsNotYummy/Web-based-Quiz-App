@@ -1,0 +1,19 @@
+# Django
+*.pyc
+*.pyo
+__pycache__
+**/static/
+**/media/
+
+# React
+**/node_modules/
+/build/
+/.vscode/
+*.log
+npm-debug.log*
+
+# Environment Variables
+.env
+
+# Python Virtual Environemnt
+**/QUIZENV/
